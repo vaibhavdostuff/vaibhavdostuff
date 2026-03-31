@@ -15,6 +15,13 @@ Hi there 👋 I'm Vaibhav Negi<br><br>💻 Developer exploring Data Analysis, Ma
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaibhavdostuff&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+## 🐍 Contribution Snake
+
+![](https://raw.githubusercontent.com/vaibhavdostuff/vaibhavdostuff/output/github-contribution-grid-snake.svg)
+
+---
+[![](https://visitcount.itsvg.in/api?id=vaibhavdostuff&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=vaibhavdostuff&icon=0&color=0)](https://visitcount.itsvg.in)
 
