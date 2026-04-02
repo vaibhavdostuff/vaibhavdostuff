@@ -15,7 +15,7 @@ Hi there 👋 I'm Vaibhav Negi<br><br>💻 Developer exploring Data Analysis, Ma
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavdostuff&layout=compact&theme=tokyonight&hide_border=true)
 ## 🏆 GitHub Trophies
-https://github-profile-trophy.vercel.app/?username=vaibhavdostuff&theme=tokyonight
+https://github-readme-activity-graph.vercel.app/graph?username=vaibhavdostuff
 
 ## 🐍 Contribution Snake
 
